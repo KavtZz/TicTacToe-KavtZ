@@ -88,3 +88,25 @@ footer {
     color: #fff;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
+
+#player-inputs {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#player-inputs input {
+    padding: 10px;
+    margin: 5px;
+    font-size: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+#scoreboard {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
